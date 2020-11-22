@@ -1,3 +1,4 @@
 this is merge1.txt
 m1
 m2
+m3
